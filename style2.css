@@ -66,12 +66,18 @@ sup{
 }
 .user1{
     width: 18px;
+    margin: auto;
+    display: block;
 }
 .user2{
     width: 18px;
+    margin: auto;
+    display: block;
 }
 .user3{
     width: 18px;
+    margin: auto;
+    display: block;
 }
 .pro{
     text-decoration: none;
@@ -146,8 +152,12 @@ sup{
     padding: 10px;
     text-align: center;
     line-height: 1.3;
+    
    
     
+}
+.imgf{
+    margin-bottom: 10px;
 }
 .shopmain{
     display: flex;
