@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+}
+.header{
+    background-color:white ;
+    
+    
+ 
+    
+    box-shadow:10px #f2f2f2 ;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.myntra{
+    width: 55px;
+    margin-left: 25px;
+}
+.nav{
+
+}
+.ul1{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin-left: 20px;
+}
+.nav1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div4{
+    display: flex;
+    margin-left: 150px;
+}
+.div4 button img{
+    width: 14px;
+    
+
+}
+sup{
+    color: red;
+}
+
+.div4 button{
+    padding: 10px;
+    border: none;
+    
+}
+.search{
+    width: 330px;
+    height: 40px;
+    border: none;
+    background-color: #f2f2f2;
+}
+.user1{
+    width: 18px;
+}
+.user2{
+    width: 18px;
+}
+.user3{
+    width: 18px;
+}
+.pro{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon{
+    display: flex;
+    gap: 30px;
+    
+    
+}
+.icon1{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.icon2{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.icon3{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.flat{
+    margin-top: 20px;
+    
+    
+    
+}
+.content{
+    
+}
+.newslide{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.title{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.slider3{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    
+}
+.slider3 img{
+    width: 150px;
+}
+.shopby{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.shopnow{
+    background-color: #064125;
+    width: fit-content;
+    height: 300px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    line-height: 1.3;
+   
+    
+}
+.shopmain{
+    display: flex;
+   
+    justify-content: center;
+    flex-wrap: wrap;
+   font-family: Arial, Helvetica, sans-serif;
+    
+    gap: 50px;
+    
+}
+.shopnow a{
+    text-decoration: none;
+    color: white;
+}
+.title2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.foot1{
+    display: flex;
+    
+    
+}
+.foot2{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+
+}
+.foot3{
+    width: 100%;
+    height: 100%;border: 1px solid black;
+    
+}
+.foot4{
+    width: 100%;
+    height: 100%;border: 1px solid black;
+    
+}
+.foot5{
+    width: 100%;
+    height: 100%;border: 1px solid black;
+    
+}
